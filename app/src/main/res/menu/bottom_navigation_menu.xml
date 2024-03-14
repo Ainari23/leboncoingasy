@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bottom_tediavo"
+        android:title="Tediavo"
+        android:icon="@drawable/baseline_search_24"/>
+    <item
+        android:id="@+id/bottom_tiako"
+        android:title="Tiako"
+        android:icon="@drawable/baseline_favorite_border_24"/>
+    <item
+        android:id="@+id/bottom_zaraiko"
+        android:title="Zaraiko"/>
+    <item
+        android:id="@+id/bottom_messazy"
+        android:title="Messazy"
+        android:icon="@drawable/baseline_message_24"/>
+    <item
+        android:id="@+id/bottom_kaonty"
+        android:title="Kaonty"
+        android:icon="@drawable/baseline_person_24"/>
+</menu>

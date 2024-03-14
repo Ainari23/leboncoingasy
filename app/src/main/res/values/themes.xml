@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.LeBoncoingasy" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryVariant">@color/cardview_shadow_start_color</item>
+        <item name="android:textColorPrimary">@color/black</item>
+        <item name="android:text">@color/orange</item>
+        <item name="android:statusBarColor">@color/darkorange</item>
+    </style>
+
+    <style name="Theme.LeBoncoingasy" parent="Base.Theme.LeBoncoingasy" />
+</resources>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Serasisiny</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Photos">Photos</string>
+    <string name="Titre">Titre</string>
+    <string name="caractéristique">Caractéristiques</string>
+    <string name="lieu">Lieu</string>
+    <string name="prix">Prix</string>
+    <string name="description">Description</string>
+    <string name="type_de_bien">Type de bien</string>
+    <string name="Etat">Etat</string>
+    <string name="Surface_Habitable">Surface Habitable</string>
+    <string name="classr_énergie">Classe énergie</string>
+    <string name="Assenseur">Assenseur</string>
+    <string name="Parking">Place parking</string>
+    <string name="Nb_chambres">Nombres chambres</string>
+    <string name="type_bien">Ce bien est :</string>
+    <string name="Nb_pieces">Nombres de pieces</string>
+    <string name="exterieur">Terrasse</string>
+    <string name="années_construction">Année de construction</string>
+    <!--Param si motos-->
+    <string name="kilometrage">Kilometrages</string>
+    <string name="Etat_moto">Etat de la moto</string>
+</resources>
